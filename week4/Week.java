@@ -21,7 +21,7 @@ class Week {
     // Static nested class
     public static class Message {
         public static void showGreeting() {
-            System.out.println("\nWelcome to the Week Viewer App!");
+            System.out.println("\nWelcome to my Week Viewer!");
         }
     }
 
