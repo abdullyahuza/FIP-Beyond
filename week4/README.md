@@ -16,7 +16,7 @@
 ```code
 $ java DaysOfWeekDemo
 
-Welcome to the Week Viewer App!
+Welcome to my Week Viewer!
 Days of the week:
 - MONDAY
 - TUESDAY
