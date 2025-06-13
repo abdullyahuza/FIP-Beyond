@@ -1,4 +1,4 @@
-# Task 05 – Coding Classes and Objects
+# Task 05 – Coding Interfaces
 
 ## 🎯 Learning Outcome
 - Understand language fundamentals and coding standard
