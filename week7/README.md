@@ -1,4 +1,4 @@
-# Task 07 – Implementing Inheritance
+# Task 07 – Working with Numbers & Strings
 
 ## 🎯 Learning Outcome
 - Understand Number classes
